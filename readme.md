@@ -16,7 +16,7 @@ This project aims to develop a web scraper using Python, Scrapy, Selenium, and B
 1. **Clone the repository:**
 
 ```bash
-git clone [repository_url]
+git clone https://github.com/SPQR14/discovery_web_scrapper.git
 ```
 
 2. **Install dependencies:**
