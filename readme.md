@@ -4,6 +4,31 @@
 
 This project aims to develop a web scraper using Python, Scrapy, Selenium, and Beautiful Soup to gather news articles related to nearshoring and sustainable economy initiatives from various online sources. The scraped data will be stored in a structured format for further analysis and visualization.
 
+Websites to Scrape.
+- Forbes: https://www.forbes.com.mx/
+- Proceso: https://www.proceso.com.mx/
+- Expansión: https://expansion.mx/
+- El Reforma: https://www.reforma.com/
+- El Economista:z https://www.eleconomista.com.mx/
+- Bloomberg: https://www.bloomberg.com/
+- El Financiero: https://www.elfinanciero.com.mx/
+- Thomson Reuters: https://www.thomsonreutersmexico.com/es-mx
+- KPGM: https://kpmg.com/mx/es/home.html
+- Deloitte: https://www2.deloitte.com/mx/es.html
+- IMCO: https://imco.org.mx/
+- Concanaco: https://www.concanaco.com.mx/
+- Secretaría de economía: https://www.gob.mx/se
+- Banco de México: https://www.banxico.org.mx/
+
+Relevant terms.
+- Recolocación de la inversión en México.
+- Relocalización de las inversiones hacia México.
+- Inversión extranjera directa en México.
+- Nearshoring
+- Nearshoring en México
+- Recolocación de las cadenas de mininistro.
+- Inversión extranjera.
+
 **Technologies**
 
 * **Python:** The primary programming language for the project.
