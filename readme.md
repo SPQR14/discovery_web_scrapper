@@ -9,7 +9,7 @@ Websites to Scrape.
 - Proceso: https://www.proceso.com.mx/
 - Expansión: https://expansion.mx/
 - El Reforma: https://www.reforma.com/
-- El Economista:z https://www.eleconomista.com.mx/
+- El Economista: https://www.eleconomista.com.mx/
 - Bloomberg: https://www.bloomberg.com/
 - El Financiero: https://www.elfinanciero.com.mx/
 - Thomson Reuters: https://www.thomsonreutersmexico.com/es-mx
