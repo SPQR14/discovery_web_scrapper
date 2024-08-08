@@ -186,10 +186,10 @@ class Crawler:
         while self.urls_to_visit:
             url = self.urls_to_visit.pop(0)
             logging.info(f'{i} Crawling: {url}')
-            if (i % 200 == 0):
+            if (i % 100 == 0):
                 os.system('clear')
                 logging.info(f"Current number of urls to visit: {len(self.urls_to_visit)} in {i} iterations.")
-                time.sleep(10)
+                time.sleep(5)
                 if i >= 500:
                     break
             try:
